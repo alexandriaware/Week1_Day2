@@ -22,6 +22,16 @@ namespace Week1_Day2
             Console.WriteLine(number);
             Console.WriteLine(partialNum);
             Console.WriteLine(someNumber);
+
+            //Let's talk about operators!
+
+            int jarrydAge = 29;
+            int danielAge = 32;
+            Console.WriteLine(jarrydAge != danielAge);
+
+
+
+
         }
     }
 }
